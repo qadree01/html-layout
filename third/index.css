@@ -1,0 +1,43 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.row {
+  width: 150%;
+  height: 150px;
+}
+header {
+  padding: 15px;
+  background-color: lightgrey;
+}
+
+#logo {
+  width: 150px;
+  height: 150px;
+  background-color: rgb(80, 120, 240);
+}
+
+.row-2 {
+  box-sizing: border-box;
+  padding: 50px;
+  font-size: larger;
+  background-attachment: white;
+}
+
+.row-3 {
+  background-color: rgb(80, 120, 240);
+}
+
+.row-4 {
+  background-color: aqua;
+}
+
+.row-5 {
+  background-color: rgb(206, 245, 35);
+}
+
+.row-6 {
+  background-color: rgb(250, 214, 98);
+}
+
